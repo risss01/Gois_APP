@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lomba</string>
+    <string name="about_application">About Application:</string>
+    <string name="name_application_gois_go_islami_go_history">Nama Application : GOIS (GO Islami GO History)</string>
+    <string name="purpose_of_application_to_commemorate_the_islamic_period_and_the_period_of_indonesian_struggle">Tujuan Application : untuk memperingati periode Islam dan periode perjuangan Indonesia Mengetahui sejarah</string>
+    <string name="versi_application_beta">Versi Application : Beta 18.0.4</string>
+    <string name="gois">GOIS</string>
+    <string name="temukan_sejarah_islam_dan_indonesia">Temukan Sejarah Islam dan indonesia</string>
+    <string name="temukan_sejarah_tentang_islam_dan_sejarah_kemerdekaan_indonesi_lebih_mudah_dan_cepat">Temukan Sejarah tentang islam dan sejarah kemerdekaan indonesi lebih mudah dan cepat</string>
+</resources>
